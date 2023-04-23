@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -24,8 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: https://github.com/Dammy36/Frontend-Mentor-QR-code-component-solution
 - Live Site URL: https://bespoke-dodol-7e40c1.netlify.app/
-
-## My process
 
 ### Built with
 
@@ -54,11 +51,6 @@ and the use of media queries to make the site responsive.
 @media max-width:(750px) {
 
 }
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
